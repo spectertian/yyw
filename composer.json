@@ -13,7 +13,7 @@
 
     "autoload": {
         "psr-4": {
-            "Yyw\\Component\\Yar\\": "yar/"
+            "Yyw\\Component\\Yar\\": "src"
         },
         "exclude-from-classmap": [
             "/Tests/"
