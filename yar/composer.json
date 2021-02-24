@@ -1,0 +1,24 @@
+{
+    "name": "115 yar",
+    "description": "115 ",
+    "authors": [
+        {
+            "name": "tianzhongsheng",
+            "email": "tianzhongsheng@lingxi360.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Yyw\\Component\\Yar\\": "yar/"
+        },
+        "exclude-from-classmap": [
+            "/Tests/"
+        ]
+    },
+    "minimum-stability": "dev"
+
+}
