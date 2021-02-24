@@ -5,4 +5,8 @@ class Unzip{
     {
         echo "this is rose Unzip";
     }
+    public function rel()
+    {
+        echo "this is rose 1.0";
+    }
 }
